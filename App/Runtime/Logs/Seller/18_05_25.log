@@ -1,0 +1,2483 @@
+[ 2018-05-25T10:21:11+08:00 ] ::1 /goods/index.php/Seller/Goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: id D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/Seller/View/Public/breadcrumb.html): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 47 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 120 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 126 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 136 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 146 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 157 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 169 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 174 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 179 行.
+NOTIC: [8] Undefined variable: reurl D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 187 行.
+NOTIC: [8] Undefined variable: copyright D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 200 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T10:21:18+08:00 ] ::1 /goods/Seller/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+
+[ 2018-05-25T10:21:18+08:00 ] ::1 /goods/Seller/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 49 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T10:21:20+08:00 ] ::1 /goods/Seller/Public/checkLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 49 行.
+SQL: SHOW COLUMNS FROM `gd_managers` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_managers` WHERE `account` = 'guodong' AND `status` = 1 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2018-05-25T10:21:24+08:00 ] ::1 /goods/Seller/Public/checkLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 49 行.
+SQL: SHOW COLUMNS FROM `gd_managers` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_managers` WHERE `account` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2018-05-25T10:21:26+08:00 ] ::1 /goods/Seller/Public/checkLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 49 行.
+SQL: SHOW COLUMNS FROM `gd_managers` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_managers` WHERE `account` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2018-05-25T10:21:28+08:00 ] ::1 /goods/Seller/Public/checkLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 49 行.
+SQL: SHOW COLUMNS FROM `gd_managers` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_managers` WHERE `account` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `gd_managers` SET `last_login_time`='1527214888',`last_login_ip`='0.0.0.0' WHERE `id` = 162 [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `gd_managers_log` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `gd_managers_log` (`module_name`,`action_name`,`action_id`,`type`,`ipaddress`,`uid`,`memo`,`sql_content`,`create_time`) VALUES ('seller','checklogin','0','seller_checklogin','0.0.0.0','162','登录系统','UPDATE `gd_managers` SET `last_login_time`=\'1527214888\',`last_login_ip`=\'0.0.0.0\' WHERE `id` = 162','2018-05-25 10:21:28') [ RunTime:0.0030s ]
+
+[ 2018-05-25T10:21:28+08:00 ] ::1 /goods/Seller/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+NOTIC: [8] Undefined variable: info D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\IndexController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/Seller/View/Public/breadcrumb.html): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: runtime D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\313e8830ea3584acdb1f589c3050aaed.php 第 124 行.
+NOTIC: [8] Undefined variable: copyright D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\313e8830ea3584acdb1f589c3050aaed.php 第 142 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T10:21:30+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_goods` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `gd_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gd_goods` ORDER BY `id` desc LIMIT 0,15   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 183 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/Seller/View/Public/breadcrumb.html): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 48 行.
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 84 行.
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: copyright D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 196 行.
+NOTIC: [8] Undefined index: role D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 342 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T10:22:33+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `gd_goods` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gd_goods` ORDER BY `id` desc LIMIT 0,15   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 183 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/Seller/View/Public/breadcrumb.html): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 48 行.
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 84 行.
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: copyright D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 196 行.
+NOTIC: [8] Undefined index: role D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 342 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T10:24:07+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T10:24:14+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_goods` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `gd_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gd_goods` ORDER BY `id` desc LIMIT 0,15   [ RunTime:0.0010s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 183 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/Seller/View/Public/breadcrumb.html): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 48 行.
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 84 行.
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: copyright D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 196 行.
+NOTIC: [8] Undefined index: role D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 342 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T10:24:15+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_goods` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `gd_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gd_goods` ORDER BY `id` desc LIMIT 0,15   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 183 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/Seller/View/Public/breadcrumb.html): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 48 行.
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 84 行.
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: copyright D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 196 行.
+NOTIC: [8] Undefined index: role D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 342 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T10:24:16+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_goods` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `gd_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gd_goods` ORDER BY `id` desc LIMIT 0,15   [ RunTime:0.0010s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 183 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/Seller/View/Public/breadcrumb.html): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 48 行.
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 84 行.
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: copyright D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 196 行.
+NOTIC: [8] Undefined index: role D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 342 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T10:24:16+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_goods` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `gd_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gd_goods` ORDER BY `id` desc LIMIT 0,15   [ RunTime:0.0010s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 183 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/Seller/View/Public/breadcrumb.html): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 48 行.
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 84 行.
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: copyright D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 196 行.
+NOTIC: [8] Undefined index: role D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 342 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T10:24:23+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T10:26:42+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T10:27:18+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0010s ]
+
+[ 2018-05-25T10:27:26+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T10:27:47+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T10:28:12+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T10:28:15+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T10:28:22+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T10:28:47+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] Use of undefined constant file_type - assumed 'file_type' (this will throw an Error in a future version of PHP) D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 29 行.
+
+[ 2018-05-25T10:28:53+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T10:28:58+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T10:29:09+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T10:29:26+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T10:37:54+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] Use of undefined constant SITE_PATH - assumed 'SITE_PATH' (this will throw an Error in a future version of PHP) D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 34 行.
+NOTIC: [2] Use of undefined constant SITE_PATH - assumed 'SITE_PATH' (this will throw an Error in a future version of PHP) D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 35 行.
+
+[ 2018-05-25T10:38:30+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] Use of undefined constant SITE_PATH - assumed 'SITE_PATH' (this will throw an Error in a future version of PHP) D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 34 行.
+
+[ 2018-05-25T10:38:39+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T10:38:56+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T10:39:08+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T10:39:34+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0010s ]
+NOTIC: [2] copy(/public/upfile/Excel/20180525103934.xlsx): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 41 行.
+
+[ 2018-05-25T10:40:15+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0010s ]
+NOTIC: [2] copy(/public/upfile/Excel/20180525104015.xlsx): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 39 行.
+
+[ 2018-05-25T10:41:29+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] copy(/public/upfile/Excel/20180525104129.xlsx): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 40 行.
+
+[ 2018-05-25T10:44:51+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0010s ]
+NOTIC: [2] copy(/public/upfile/Excel/20180525104451.xlsx): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 40 行.
+
+[ 2018-05-25T10:45:01+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T10:45:14+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T10:45:28+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T10:45:54+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T10:46:07+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T10:48:55+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T10:50:35+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T10:51:47+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T10:53:19+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T10:57:42+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0010s ]
+
+[ 2018-05-25T10:58:23+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T10:58:54+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T10:59:21+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T11:00:15+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-25T11:00:18+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_goods` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `gd_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gd_goods` ORDER BY `id` desc LIMIT 0,15   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 183 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/Seller/View/Public/breadcrumb.html): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 48 行.
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 84 行.
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: copyright D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 196 行.
+NOTIC: [8] Undefined index: role D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 342 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T11:00:43+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: file_name D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 52 行.
+
+[ 2018-05-25T11:00:44+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_goods` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `gd_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gd_goods` ORDER BY `id` desc LIMIT 0,15   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 183 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/Seller/View/Public/breadcrumb.html): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 48 行.
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 84 行.
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: copyright D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 196 行.
+NOTIC: [8] Undefined index: role D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 342 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T11:01:02+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0010s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-25T11:01:06+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_goods` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `gd_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gd_goods` ORDER BY `id` desc LIMIT 0,15   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 183 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/Seller/View/Public/breadcrumb.html): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 48 行.
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 84 行.
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: copyright D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 196 行.
+NOTIC: [8] Undefined index: role D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 342 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T11:01:26+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: file_name D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 52 行.
+
+[ 2018-05-25T11:01:27+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_goods` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `gd_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gd_goods` ORDER BY `id` desc LIMIT 0,15   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 183 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/Seller/View/Public/breadcrumb.html): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 48 行.
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 84 行.
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: copyright D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 196 行.
+NOTIC: [8] Undefined index: role D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 342 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T11:01:29+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: file_name D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 52 行.
+
+[ 2018-05-25T11:01:36+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_goods` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `gd_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gd_goods` ORDER BY `id` desc LIMIT 0,15   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 183 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/Seller/View/Public/breadcrumb.html): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 48 行.
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 84 行.
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: copyright D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 196 行.
+NOTIC: [8] Undefined index: role D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 342 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T11:01:36+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_goods` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `gd_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gd_goods` ORDER BY `id` desc LIMIT 0,15   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 183 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/Seller/View/Public/breadcrumb.html): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 48 行.
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 84 行.
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: copyright D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 196 行.
+NOTIC: [8] Undefined index: role D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 342 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T11:01:52+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: file_name D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 53 行.
+
+[ 2018-05-25T11:02:19+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T11:02:34+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+ERR: Call to undefined function Seller\Controller\Service()
+
+[ 2018-05-25T11:05:30+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: res D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 61 行.
+
+[ 2018-05-25T11:06:34+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T11:06:49+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T11:08:00+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `gd_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gd_goods` ORDER BY `id` desc LIMIT 0,15   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 183 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/Seller/View/Public/breadcrumb.html): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 48 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: copyright D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 196 行.
+NOTIC: [8] Undefined index: role D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 342 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T11:08:15+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: photo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 60 行.
+NOTIC: [8] Undefined index: photo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 60 行.
+
+[ 2018-05-25T11:09:54+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: photo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 60 行.
+NOTIC: [8] Undefined index: photo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 60 行.
+
+[ 2018-05-25T11:10:19+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: photo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 60 行.
+NOTIC: [8] Undefined index: photo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 60 行.
+
+[ 2018-05-25T11:11:20+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T11:13:20+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T11:13:26+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T11:14:06+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T11:14:14+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T11:14:22+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T11:15:07+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T11:15:34+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `gd_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gd_goods` ORDER BY `id` desc LIMIT 0,15   [ RunTime:0.0010s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 183 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/Seller/View/Public/breadcrumb.html): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 48 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: copyright D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 196 行.
+NOTIC: [8] Undefined index: role D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 342 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T11:15:43+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T11:15:45+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T11:16:21+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_goods` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `gd_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gd_goods` ORDER BY `id` desc LIMIT 0,15   [ RunTime:0.0010s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 183 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/Seller/View/Public/breadcrumb.html): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 48 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: copyright D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 196 行.
+NOTIC: [8] Undefined index: role D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 342 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T11:16:27+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0010s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T11:26:03+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `gd_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gd_goods` ORDER BY `id` desc LIMIT 0,15   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 183 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/Seller/View/Public/breadcrumb.html): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 48 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: copyright D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 196 行.
+NOTIC: [8] Undefined index: role D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 342 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T11:26:09+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0010s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: highestRow D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 72 行.
+SQL: SHOW COLUMNS FROM `gd_goods` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `gd_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gd_goods` ORDER BY `id` desc LIMIT 0,15   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 183 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/Seller/View/Public/breadcrumb.html): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 48 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: copyright D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 196 行.
+NOTIC: [8] Undefined index: role D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 342 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T11:27:03+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `gd_kv` [ RunTime:0.0030s ]
+ERR: 1048:Column 'k' cannot be null
+ [ SQL语句 ] : INSERT INTO `gd_kv` (`k`,`v`) VALUES (NULL,NULL)
+ERR: 1048:Column 'k' cannot be null
+ [ SQL语句 ] : INSERT INTO `gd_kv` (`k`,`v`) VALUES (NULL,NULL)
+
+[ 2018-05-25T11:27:50+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T11:28:08+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0010s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T11:28:50+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T11:29:01+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T11:29:09+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T11:29:15+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T11:29:23+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T11:30:04+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T11:30:29+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+ERR: syntax error, unexpected ';', expecting ',' or ')'
+
+[ 2018-05-25T11:30:36+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-25T11:30:41+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0010s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `gd_kv` [ RunTime:0.0030s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('角色名称','剑圣') [ RunTime:0.0000s ]
+
+[ 2018-05-25T11:30:57+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `gd_kv` [ RunTime:0.0030s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('角色名称','剑圣') [ RunTime:0.0000s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('品质','SSS') [ RunTime:0.0000s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('简介','斩杀型刺客。敌人的战败，会让剑圣的攻势更加疯狂') [ RunTime:0.0010s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('技能一','万剑归宗') [ RunTime:0.0000s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('','【主动】随机攻击敌方单体，累积造成275%基础伤害如果击杀目标，则额外对地方全体进行1次攻击，累计造成100%基础伤害') [ RunTime:0.0000s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('技能二','裂波斩') [ RunTime:0.0000s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('','队友攻击时，有30%的几率使用普通攻击协助队友进行攻击（协助攻击不会触发任何斩杀效果）') [ RunTime:0.0010s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('技能三','止水剑意') [ RunTime:0.0000s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('','普通攻击如果击杀目标，则额外对敌方随机单体发动一次攻击，累计造成125%基础伤害') [ RunTime:0.0000s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('','') [ RunTime:0.0000s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('','') [ RunTime:0.0010s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('','') [ RunTime:0.0000s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('','') [ RunTime:0.0000s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('','') [ RunTime:0.0000s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('','') [ RunTime:0.0000s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('','') [ RunTime:0.0010s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('','') [ RunTime:0.0000s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('','') [ RunTime:0.0000s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('','') [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_goods` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `gd_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gd_goods` ORDER BY `id` desc LIMIT 0,15   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 183 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/Seller/View/Public/breadcrumb.html): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 48 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: copyright D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 196 行.
+NOTIC: [8] Undefined index: role D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 342 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T11:33:19+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `gd_kv` [ RunTime:0.0040s ]
+ERR: 1048:Column 'k' cannot be null
+ [ SQL语句 ] : INSERT INTO `gd_kv` (`k`,`v`) VALUES (NULL,NULL)
+ERR: 1048:Column 'k' cannot be null
+ [ SQL语句 ] : INSERT INTO `gd_kv` (`k`,`v`) VALUES (NULL,NULL)
+
+[ 2018-05-25T11:33:47+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `gd_kv` [ RunTime:0.0020s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('1','A') [ RunTime:0.0000s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('2','B') [ RunTime:0.0010s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('3','C') [ RunTime:0.0000s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('4','D') [ RunTime:0.0000s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('5','E') [ RunTime:0.0000s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('6','F') [ RunTime:0.0000s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('7','G') [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_goods` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `gd_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gd_goods` ORDER BY `id` desc LIMIT 0,15   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 183 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/Seller/View/Public/breadcrumb.html): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 48 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: copyright D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 196 行.
+NOTIC: [8] Undefined index: role D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 342 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T11:39:58+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `gd_kv` [ RunTime:0.0030s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('1','A') [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `gd_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gd_goods` ORDER BY `id` desc LIMIT 0,15   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 183 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/Seller/View/Public/breadcrumb.html): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 48 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: copyright D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 196 行.
+NOTIC: [8] Undefined index: role D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 342 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T11:40:40+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0010s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `gd_kv` [ RunTime:0.0040s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('1','A') [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `gd_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gd_goods` ORDER BY `id` desc LIMIT 0,15   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 183 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/Seller/View/Public/breadcrumb.html): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 48 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: copyright D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 196 行.
+NOTIC: [8] Undefined index: role D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 342 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T11:41:16+08:00 ] ::1 /goods/Seller/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `gd_kv` [ RunTime:0.0030s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('1','A') [ RunTime:0.0010s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('2','B') [ RunTime:0.0000s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('3','C') [ RunTime:0.0000s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('4','D') [ RunTime:0.0000s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('5','E') [ RunTime:0.0000s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('6','F') [ RunTime:0.0000s ]
+SQL: INSERT INTO `gd_kv` (`k`,`v`) VALUES ('7','G') [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_goods` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `gd_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gd_goods` ORDER BY `id` desc LIMIT 0,15   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\CommonController.class.php 第 183 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/Seller/View/Public/breadcrumb.html): failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 48 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 265 行.
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `gd_sort` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: copyright D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 196 行.
+NOTIC: [8] Undefined index: role D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\bcbdb34525521d64d2682560704b591f.php 第 342 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T13:52:54+08:00 ] ::1 /goods/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: syntax error, unexpected '$this' (T_VARIABLE)
+
+[ 2018-05-25T13:53:10+08:00 ] ::1 /goods/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: syntax error, unexpected '$this' (T_VARIABLE)
+
+[ 2018-05-25T13:53:41+08:00 ] ::1 /goods/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: syntax error, unexpected '$this' (T_VARIABLE)
+
+[ 2018-05-25T13:54:06+08:00 ] ::1 /goods/Seller/Goods/export
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: syntax error, unexpected '$this' (T_VARIABLE)
+
+[ 2018-05-25T13:54:27+08:00 ] ::1 /goods/Seller/Goods/export
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: syntax error, unexpected '$this' (T_VARIABLE)
+
+[ 2018-05-25T13:54:31+08:00 ] ::1 /goods/Seller/Goods/export
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: syntax error, unexpected '$this' (T_VARIABLE)
+
+[ 2018-05-25T13:54:40+08:00 ] ::1 /goods/Seller/Goods/export
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: syntax error, unexpected '$this' (T_VARIABLE)
+
+[ 2018-05-25T13:54:41+08:00 ] ::1 /goods/Seller/Goods/export
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: syntax error, unexpected '$this' (T_VARIABLE)
+
+[ 2018-05-25T13:54:49+08:00 ] ::1 /goods/Seller/Goods/exportExcel.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: syntax error, unexpected '$this' (T_VARIABLE)
+
+[ 2018-05-25T13:55:00+08:00 ] ::1 /goods/Seller/Goods/exportExcel.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+ERR: syntax error, unexpected '$this' (T_VARIABLE)
+
+[ 2018-05-25T13:55:13+08:00 ] ::1 /goods/Seller/Goods/exportExcel.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+ERR: syntax error, unexpected '$xlsTitle' (T_VARIABLE)
+
+[ 2018-05-25T13:55:51+08:00 ] ::1 /goods/Seller/Goods/export
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+ERR: syntax error, unexpected '$xlsTitle' (T_VARIABLE)
+
+[ 2018-05-25T13:56:02+08:00 ] ::1 /goods/Seller/Goods/export
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+ERR: syntax error, unexpected '$this' (T_VARIABLE)
+
+[ 2018-05-25T13:56:27+08:00 ] ::1 /goods/Seller/Goods/export
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+ERR: syntax error, unexpected '$xlsTitle' (T_VARIABLE)
+
+[ 2018-05-25T13:56:37+08:00 ] ::1 /goods/Seller/Goods/export
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+ERR: syntax error, unexpected '$this' (T_VARIABLE)
+
+[ 2018-05-25T13:57:05+08:00 ] ::1 /goods/Seller/Goods/export
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+ERR: syntax error, unexpected '$this' (T_VARIABLE)
+
+[ 2018-05-25T13:57:19+08:00 ] ::1 /goods/Seller/Goods/export
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+ERR: Think\Controller:index方法不存在！
+
+[ 2018-05-25T13:58:27+08:00 ] ::1 /goods/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T13:58:48+08:00 ] ::1 /goods/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T13:59:23+08:00 ] ::1 /goods/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T13:59:28+08:00 ] ::1 /goods/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T13:59:50+08:00 ] ::1 /goods/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T14:00:22+08:00 ] ::1 /goods/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+
+[ 2018-05-25T14:03:53+08:00 ] ::1 /goods/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: objPHPExcel D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 108 行.
+ERR: Argument 1 passed to PHPExcel_Writer_Excel5::__construct() must be an instance of PHPExcel, null given, called in D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php on line 108
+
+[ 2018-05-25T14:05:12+08:00 ] ::1 /goods/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_kv` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `gd_kv` ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2018-05-25T14:07:06+08:00 ] ::1 /goods/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_kv` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_kv` ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T14:08:04+08:00 ] ::1 /goods/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_kv` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `gd_kv` ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T14:08:59+08:00 ] ::1 /goods/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_kv` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_kv` ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T14:10:58+08:00 ] ::1 /goods/index.php/Seller/Goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: id D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 158 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/Seller/View/Public/breadcrumb.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 47 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 266 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 266 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 266 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 120 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 126 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 136 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 146 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 157 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 169 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 174 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 179 行.
+NOTIC: [8] Undefined variable: reurl D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 187 行.
+NOTIC: [8] Undefined variable: copyright D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 200 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T14:11:32+08:00 ] ::1 /goods/index.php/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_kv` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_kv` ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T14:12:21+08:00 ] ::1 /goods/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_kv` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `gd_kv` ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T14:16:21+08:00 ] ::1 /goods/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_kv` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `gd_kv` ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T14:17:33+08:00 ] ::1 /goods/index.php/Seller/Goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: id D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 158 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/Seller/View/Public/breadcrumb.html) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: app_manager D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 47 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 266 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 266 行.
+NOTIC: [8] Undefined index: adminAuthInfo D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Common\function.php 第 266 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 120 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 126 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 136 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 146 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 157 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 169 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 174 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 179 行.
+NOTIC: [8] Undefined variable: reurl D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 187 行.
+NOTIC: [8] Undefined variable: copyright D:\phpStudy\PHPTutorial\WWW\goods\App\Runtime\Cache\Seller\1ac1afa1d11820069b353f01ee749244.php 第 200 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T14:17:39+08:00 ] ::1 /goods/index.php/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_kv` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `gd_kv` ORDER BY id desc  [ RunTime:0.0010s ]
+NOTIC: [2] date() expects at least 1 parameter, 0 given D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 149 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T14:18:22+08:00 ] ::1 /goods/Seller/Goods/lst.htm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+ERR: Think\Controller:index方法不存在！
+
+[ 2018-05-25T14:18:30+08:00 ] ::1 /goods/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_kv` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `gd_kv` ORDER BY id desc  [ RunTime:0.0000s ]
+NOTIC: [2] date() expects at least 1 parameter, 0 given D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 144 行.
+NOTIC: [2] date() expects at least 1 parameter, 0 given D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 149 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T14:19:41+08:00 ] ::1 /goods/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_kv` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_kv` ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T14:20:07+08:00 ] ::1 /goods/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_kv` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_kv` ORDER BY id desc  [ RunTime:0.0000s ]
+NOTIC: [2] date() expects at least 1 parameter, 0 given D:\phpStudy\PHPTutorial\WWW\goods\App\Seller\Controller\GoodsController.class.php 第 125 行.
+
+[ 2018-05-25T14:20:17+08:00 ] ::1 /goods/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_kv` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `gd_kv` ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2018-05-25T14:20:28+08:00 ] ::1 /goods/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_kv` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_kv` ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2018-05-25T14:21:00+08:00 ] ::1 /goods/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+
+[ 2018-05-25T14:21:08+08:00 ] ::1 /goods/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_kv` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `gd_kv` ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T14:21:15+08:00 ] ::1 /goods/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_kv` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `gd_kv` ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T14:21:17+08:00 ] ::1 /goods/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_kv` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `gd_kv` ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+
+[ 2018-05-25T14:21:18+08:00 ] ::1 /goods/Seller/Goods/exportExcel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: expire D:\phpStudy\PHPTutorial\WWW\goods\ThinkPHP\Common\functions.php 第 1247 行.
+SQL: SHOW COLUMNS FROM `gd_sort` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `gd_sort`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_kv` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_kv` ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined D:\phpStudy\PHPTutorial\WWW\goods\index.php 第 31 行.
+

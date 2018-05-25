@@ -1,0 +1,82 @@
+@charset "UTF-8";
+body {
+    background-color: #eee;
+}
+.gather-wrap {
+    position: relative;
+    background-color: #218ff4;
+}
+.gather-head {
+    box-sizing: border-box;
+    padding: 1.5rem 2rem 5.5rem;
+    color: #fff;
+}
+.gather-pay-sel {
+    text-align: center;
+    img {
+        width: 6rem;
+    }
+}
+.pay-sel-action {
+    color: #fff;
+}
+.pay-sel-default {
+    color: #bfbfbf;
+}
+.gather-sate {
+    margin: 15px 0 5px;
+    text-align: center;
+    span:first-child {
+        display: inline-block;
+        font-size: 2.5rem;
+    }
+}
+//输入金额
+.hang-wrap {
+    position: absolute;
+    bottom: -4rem;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0 1rem;
+}
+.hang-container {
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 8px;
+    >div {
+        height: 3rem;
+        line-height: 3rem;
+    }
+    .hang-price-title {
+        font-size: 1.4rem;
+        color: #999;
+    }
+    input {
+        width: 100%;
+        border: 0;
+        font-size: 2.5rem;
+        
+        
+    }
+    
+    /* 通用 */
+input::-webkit-input-placeholder { color:#000; }
+input::-moz-placeholder { color:#000; } /* firefox 19+ */
+input:-ms-input-placeholder { color:#000; } /* ie */
+input:-moz-placeholder { color:#000; }
+}
+.gather-conf {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 6rem 1rem;
+    button {
+        width: 100%;
+        line-height: 3.5rem;
+        background-color: #218ff4;
+        color: #fff;
+        border: 0;
+        border-radius: 6px;
+        outline: none;
+    }
+}

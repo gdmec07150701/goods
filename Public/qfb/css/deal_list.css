@@ -1,0 +1,86 @@
+.search-wrap {
+  padding: 10px 20px;
+  background-color: #efeff4;
+}
+
+.search-container {
+  height: 2.5rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background-color: #fff;
+}
+.search-container input {
+  box-sizing: border-box;
+  width: 100%;
+  height: 2.5rem;
+  border-width: 0;
+}
+.search-container img {
+  width: 2rem;
+  height: 2rem;
+  margin-top: .2rem;
+  margin-right: .5rem;
+}
+
+.list-wrap {
+  box-sizing: border-box;
+  padding: 0 .5rem .5rem;
+}
+.list-wrap .tabber {
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 1.1rem;
+}
+.list-wrap .tabber li {
+  padding: 1rem 0;
+}
+.list-wrap .tabber li span {
+  display: inline-block;
+  width: 100%;
+  border-left: 1px solid #ccc;
+}
+
+.tab-color-action {
+  color: #218ff4;
+}
+
+.tab-color-default {
+  color: #000;
+}
+
+.deal-list {
+  box-sizing: border-box;
+  margin-top: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+.deal-list > div {
+  margin: 5px 10px;
+}
+.deal-list .deal-state {
+  font-size: 1.2rem;
+  color: #f00;
+}
+
+.subdeal {
+  font-size: 1rem;
+  color: #999;
+}
+
+.deal-price {
+  padding: 5px 0;
+  background-color: #eee;
+  font-weight: normal;
+  text-align: center;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+.deal-price li p {
+  font-size: 1rem;
+  color: #656262;
+}
+.deal-price h2, .deal-price h3 {
+  font-weight: normal;
+}
+
+/*# sourceMappingURL=deal_list.css.map */

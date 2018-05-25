@@ -1,0 +1,69 @@
+body {
+	font-family: 黑体;
+}
+
+.person-message {
+	display: inline-block;
+	padding: 8px;
+	margin-left: 10px;
+}
+
+.person-message img {
+	vertical-align: middle;
+}
+
+
+/*去除默认边框*/
+
+.weui_cells:before,
+.weui_cells:after,
+.weui_cell:before {
+	border: 0;
+}
+
+.weui_cells {
+	padding: 0 15px;
+	margin-top: 10%;
+}
+
+.weui_cell {
+	padding: 10px 0;
+}
+
+.time-item {
+	padding: 10px 15px;
+	background: url(../img/circle_blue.png) left no-repeat;
+}
+
+.font-family {
+	font-size: 0.8em;
+	color: #c8c8c8;
+}
+
+#current-time,
+#end-time {
+	color: #c8c8c8;
+}
+
+.current-local-item {
+	padding: 10px 15px;
+	border-top: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	background: url(../img/circle_red.png) left no-repeat;
+}
+
+#current-local {
+	color: #000000;
+	font-family: "黑体";
+}
+
+
+/*按钮样式*/
+
+.seachCar-btn {
+	padding: 20px 15px;
+}
+
+.seachCar-btn>a {
+	background-color: #e2e2e2;
+}

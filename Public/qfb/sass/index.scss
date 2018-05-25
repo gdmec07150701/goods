@@ -1,0 +1,83 @@
+@charset "UTF-8";
+//次颜色
+$subColor: #ccc;
+//表单组件高度
+$formComponentsHeight: 2.5rem;
+//select默认少两个像素
+$selectHeight: $formComponentsHeight+.2rem;
+.form-wrap {
+    box-sizing: border-box;
+    padding-left: 1rem;
+}
+.form-title {
+    line-height: 2rem;
+    font-size: 1.4rem;
+}
+.form-container {
+    //  box-sizing: border-box;
+    padding-right: 1rem;
+//  border-top: 1px solid $subColor;
+    >div {
+        line-height: $formComponentsHeight;
+        margin: 1rem 0;
+    }
+    label {
+        width: 10rem;
+        line-height: $formComponentsHeight;
+    }
+    input,
+    select {
+        display: block;
+        width: 100%;
+        height: $formComponentsHeight;
+        line-height: $formComponentsHeight;
+        padding: 0 0.5rem;
+    }
+    select {
+        height: $selectHeight;
+        line-height: $selectHeight;
+    }
+    textarea {
+        box-sizing: border-box;
+        height: 6rem;
+        padding: 5px;
+    }
+}
+//费率input
+.rate-input {
+    border: 0;
+}
+//证件照
+.certificate-photo {
+    box-sizing: border-box; //  padding:10px 0;
+    text-align: center;
+    span {
+        display: inline-block;
+        position: relative;
+        img {
+            width: 12.8rem;
+            height: 7.2rem;
+        }
+        
+        input{
+            position: absolute;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            opacity: 0;
+        }
+    }
+}
+.confirm {
+    box-sizing: border-box;
+    padding: 20px;
+    button {
+        width: 100%;
+        line-height: 3.8rem;        
+        background-color: #218ff4;
+        color: #fff;
+        border: 0;
+        border-radius: 6px;
+        outline: none;
+    }
+}

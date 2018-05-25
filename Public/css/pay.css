@@ -1,0 +1,258 @@
+body {
+	font-family: "黑体";
+}
+
+
+/*费用,时间显示*/
+		.out-circle {
+			width: 140px;
+			height: 140px;
+			background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fcc58c), to(#FF8903));
+			border-radius: 50%;
+			margin: 15% auto;
+			padding: 5px;
+		}
+
+		.in-circle {
+			width: 100%;
+			height: 100%;
+			border-radius: 50%;
+			background-color: #FFFFFF;
+			display: inline-block;
+		}
+
+		.circle-content {
+			text-align: center;
+			margin: 20px 0;
+		}
+
+
+		/*费用及时间详情*/
+
+		.pay-little-font {
+			font-size: .5em;
+			color: #CCCCCC;
+		}
+
+		.pay-little-font:last-child {
+			margin-top: 8px;
+		}
+
+		.rental {
+			color: #FF8903;
+			font-size: 1.5em;
+			margin-left: 5px;
+		}
+
+		.rental span {
+			font-size: .5em;
+			display: inline-block;
+			padding: 5px;
+		}
+
+		.count-down-hours,
+		.count-down-minutes {
+			display: inline-block;
+			padding: 0 3px;
+			color: #FFFFFF;
+			background-color: #000000;
+		}
+
+
+/*停车场,车牌列表*/
+
+.details-lists {
+	border: 1px solid #B2B2B2;
+	margin: 0 20px 10px;
+	position: relative;
+}
+
+.details-car-position {
+	display: -webkit-box;
+	display: flex;
+	padding: 10px;
+	color: #909090;
+	font-size: .9em;
+}
+
+.details-car-position input {
+	display: block;
+	-webkit-box-flex: 1;
+	flex: 1;
+	border: 0;
+	outline: none;
+	color: #909090;
+	font-size: .9em;
+	font-family: "黑体";
+}
+
+.details-car-num {
+	border-top: 1px solid #CCCCCC;
+	display: -webkit-box;
+	display: flex;
+	font-size: .9em;
+	color: #909090;
+}
+
+.details-car-num>p:first-child {
+	padding: 10px 0 10px 10px;
+}
+
+#pay-car-num {
+	-webkit-box-flex: 1;
+	flex: 1;
+	padding: 10px 0;
+}
+
+#select-car-num {
+	padding: 10px 10px 0;
+}
+
+
+/*下拉列表*/
+
+.select-car-num {
+	position: absolute;
+	z-index: 99;
+	width: 100%;
+	text-align: center;
+	border: 1px solid #CCCCCC;
+	background-color: #FFFFFF;
+	margin-left: -1px;
+	display: none;
+}
+
+.select-car-num p {
+	padding: 5px;
+}
+
+.select-car-num-p+.select-car-num-p {
+	border-top: 1px solid #CCCCCC;
+}
+
+#add-pay-car {
+	border-top: 1px solid #CCCCCC;
+	padding: 9px;
+	text-align: center;
+	color: #FF8903;
+	font-size: .8em;
+}
+
+
+/*弹框输入车牌号*/
+
+.add-pay-car {
+	display: none;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	z-index: 100;
+	background-color: rgba(0, 0, 0, 0.6);
+	overflow: hidden;
+}
+
+.pay-car-all,.pay-car-head,.pay-car-foot{
+			width: 80%;
+			background-color:#FFFFFF;
+			margin: 0 8%;
+			text-align: center;
+			position: absolute;
+			display: inline-block;
+			overflow: hidden;
+		}
+		.pay-car-all{
+			padding: 10px;
+		}
+		.pay-car-all>div{
+			margin-top: 10px;
+		}
+		.pay-car-all>div:first-child{
+			color: #ff8903;
+			margin-top: 0;
+			font-size: 1.2em;
+		}
+		.pay-car-content,.cancel-conf-add{
+			display: -webkit-box;
+			display: -webkit-flex;
+			display: flex;
+		}
+		.car-content-head,.car-content-center{
+			width: 10%;
+			background-color: #ff8903;
+			color: #fff;
+			border: 0;
+			outline: none;
+			padding: 10px;
+			margin-right:10px;
+		}
+		.car-content-foot{
+			display: block;
+			-webkit-box-flex: 1;
+			-webkit-flex: 1;
+			flex: 1;
+			border: 0;
+			outline: none;
+			padding: 10px 0 10px 2px;
+			background-color: #e5e5e5;
+		}
+		.cancel-add-car,.conf-add-car{
+			-webkit-box-flex: 1;
+			-webkit-flex: 1;
+			flex: 1;
+			height: 35px;
+			line-height: 35px;
+			padding: 5px;
+			background-color: #e5e5e5;
+			color: #9e9e9e;
+		}
+		.conf-add-car{
+			background-color: #ff8903;
+			color: #fff;
+		}
+		/*选择牌头*/
+		.pay-car-head,.pay-car-foot{
+			display: none;
+			background-color: #FFFFFF;
+			padding: 10px 0;
+			position: absolute;
+			top: 0;
+		}
+		.pay-car-head>span,.pay-car-foot>span{
+			width: 35px;
+			height: 35px;
+			line-height: 35px;
+			text-align: center;
+			display:inline-block;
+			background-color: #ff8903;
+			color:#FFFFFF;
+			border-radius: 5px;
+			margin: 5px;
+		}
+		.special-local{
+			width: auto !important;
+			padding:0 3px;
+			background-color: #fff !important;
+			border: 1px solid #ff8903 !important;
+			color: #ff8903 !important;
+		}
+		/*输入牌号错误提示*/
+		.err-add-car{
+			width: 50%;
+			margin-left: 25%;
+			position: absolute;
+			color: #FFFFFF;
+			background-color: #ff8903;
+			text-align: center;
+			border-radius:5px ;
+			display: none;
+		}
+/*支付按钮*/
+
+.pay-btn {
+	padding: 20px 30px;
+}
+
+.pay-btn>a {
+	background-color: #FF8903;
+}

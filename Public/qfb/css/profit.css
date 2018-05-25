@@ -1,0 +1,104 @@
+body{
+  background-color: #efeff4;
+}
+
+.profit-wrap{
+  box-sizing: border-box;
+  padding: 0 8px;
+}
+
+.profit-list{
+  position: relative;
+  padding: 13px 5px;
+  margin-bottom: 10px;
+  border:2px solid #ebebed;
+  background-color: #fff;
+}
+
+.profit-num{
+  height: 30px;
+  line-height: 30px;
+  margin-bottom: 10px;
+}
+
+.profit-info{
+  line-height: 25px;
+}
+
+.withdraw-btn{
+  position: absolute;
+  top: 13px;
+  right: 0;
+  width: 100px;
+  line-height: 30px;
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.withdraw-btn-default{
+    background-color: #218ff4;
+     color: #fff;
+}
+
+.withdraw-btn-action{
+    background-color: #ccc;
+    color: #999;
+}
+
+.all-num{
+  padding:10px;
+  color: #218ff4;
+  text-align: right;
+}
+
+.pro-footer{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  line-height: 55px;
+  background-color: #fff;
+}
+.pro-footer p:first-child{
+  padding: 0 10px;
+}
+.pro-footer p:last-child{
+  width: 8rem;
+  background-color: #218ff4;
+  color: #fff;
+  text-align: center;
+}
+
+.modal-box{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color:rgba(0,0,0,0.2);
+}
+
+.modal-wrap{
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.modal-container{
+  position: absolute;
+  top: 50%;
+  width: 70%;
+  margin-left: 15%;
+  margin-top: -6rem;
+  border-radius: 3px;
+  background-color: #fff;
+  text-align: center;
+}
+
+.modal-msg{
+  margin: 3rem 1rem;
+}
+
+.modal-btn p{
+  line-height: 4rem;
+}

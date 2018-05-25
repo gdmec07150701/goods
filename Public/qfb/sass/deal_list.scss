@@ -1,0 +1,103 @@
+@charset "UTF-8";
+.search-wrap{
+    padding: 10px 20px;
+    background-color: #efeff4;
+}
+
+.search-container{
+    height: 2.5rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    background-color: #fff;
+    
+    input{
+        box-sizing: border-box;
+        width: 100%;
+        height: 2.5rem;
+        border-width: 0;
+    }
+    
+    img{
+        width: 2rem;
+        height: 2rem;
+        margin-top: .2rem;
+        margin-right: .5rem;
+    }
+}
+
+
+.list-wrap{
+    box-sizing: border-box;
+    padding: 0 .5rem .5rem;
+//  border-top: 1px solid #ccc;
+ 
+    .tabber{
+        box-sizing: border-box;
+//      padding: 5px 0;
+         text-align: center;
+         font-size: 1.1rem;
+//       border-bottom: 1px solid #ccc;
+         
+         li{
+             padding: 1rem 0;
+             
+             span{
+                 display: inline-block;
+                 width: 100%;
+//               height: 100%;
+                 border-left: 1px solid #ccc;
+             }
+         }
+    }   
+}
+
+.tab-color-action{
+    color: #218ff4;
+}
+
+.tab-color-default{
+    color: #000;
+}
+
+
+//交易列表
+.deal-list{
+    box-sizing: border-box;
+//  padding: 10px 10px 0;
+    margin-top: 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    
+    >div{
+        margin: 5px 10px;
+    }
+    
+    .deal-state{
+        font-size: 1.2rem;
+        color: #f00;
+    }
+}
+
+.subdeal{
+//      margin-top: 5px;
+        font-size: 1rem;
+        color: #999;
+}
+
+
+//交易金额
+.deal-price{
+    padding: 5px 0;
+    background-color: #eee;
+    font-weight: normal;
+    text-align: center;
+    
+    li p{
+        font-size: 1rem;
+        color: #999;
+    }
+    
+    h2,h3{
+        font-weight: normal;
+    }
+}

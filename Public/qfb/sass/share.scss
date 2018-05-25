@@ -1,0 +1,33 @@
+.rate-wrap{
+    box-sizing: border-box;
+    padding: 20px;
+    font-size: 1.4rem;
+    
+    >div{
+        line-height: 2.6rem;
+        margin-top: 15px;
+    }
+    
+    select{
+        width: 4.4rem;
+        height: 2.6rem;
+        margin: 0 4px;
+        border-radius: 4px;
+        background-color: #e5e5e5;
+        color: #218FF4;
+    }
+}
+
+.confirm {
+    box-sizing: border-box;
+    padding: 20px;
+    button {
+        width: 100%;
+        line-height: 3.8rem;        
+        background-color: #218ff4;
+        color: #fff;
+        border: 0;
+        border-radius: 6px;
+        outline: none;
+    }
+}

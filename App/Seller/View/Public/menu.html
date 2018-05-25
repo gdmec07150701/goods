@@ -1,0 +1,56 @@
+<div id="sidebar">
+	<a href="{:U('Index/index')}" class="visible-phone"><i class="icon icon-home"></i> 系统首页</a>
+	<ul>
+		<li class="<eq name="Think.CONTROLLER_NAME" value="Index">active</eq>"><a href="{:U('Index/index')}"><i class="icon icon-home"></i> <span>系统首页</span></a></li>
+		
+		<hd_arc arc="xc_w11">
+			<li class="submenu <in name="Think.CONTROLLER_NAME" value="Data"> active open</in>">
+				<a><i class="icon icon-bookmark active"></i> <span>数据</span></a>
+				<ul>
+				<hd_arc arc="xc_w11">
+					<li <in name="Think.CONTROLLER_NAME" value="Data"><in name="Think.ACTION_NAME" value="lst">class="active"</in></in>><a href="{:U('Data/lst')}">查看数据</a></li>
+				</hd_arc>
+				</ul>
+			</li>
+		</hd_arc>
+
+
+
+		<hd_arc arc="xc_w11">
+			<li class="submenu <in name="Think.CONTROLLER_NAME" value="Goods,Sort"> active open</in>">
+				<a><i class="icon icon-gift active"></i> <span>商品</span></a>
+				<ul>
+				<hd_arc arc="xc_w11">
+					<li <in name="Think.CONTROLLER_NAME" value="Goods"><in name="Think.ACTION_NAME" value="lst">class="active"</in></in>><a href="{:U('Goods/lst')}">商品管理</a></li>
+				</hd_arc>
+					<hd_arc arc="xc_w11">
+						<li <in name="Think.CONTROLLER_NAME" value="Sort"><in name="Think.ACTION_NAME" value="lst">class="active"</in></in>><a href="{:U('Sort/lst')}">类别管理</a></li>
+					</hd_arc>
+				</ul>
+			</li>
+		</hd_arc>
+
+		<hd_arc arc="xc_w1">
+		<li class="submenu <in name="Think.CONTROLLER_NAME" value="Manager,Log"> active open</in>">
+			<a><i class="icon icon-user active"></i> <span>管理员中心</span></a>
+			<ul>
+				<li <in name="Think.CONTROLLER_NAME" value="Manager"><in name="Think.ACTION_NAME" value="managers">class="active"</in></in>><a href="{:U('Manager/index')}">管理员列表</a></li>
+				<li <in name="Think.CONTROLLER_NAME" value="Manager"><in name="Think.ACTION_NAME" value="managers_log">class="active"</in></in>><a href="{:U('Manager/log')}">管理日志</a></li>
+				<li <in name="Think.CONTROLLER_NAME" value="Log"><in name="Think.ACTION_NAME" value="lst">class="active"</in></in>><a href="{:U('Log/lst')}">进出库错误回滚</a></li>
+
+				
+				<!-- <eq name="app_manager.role" value="1">
+				
+				<li <in name="Think.CONTROLLER_NAME" value="Manager"><in name="Think.ACTION_NAME" value="card_log">class="active"</in></in>><a href="{:U('Manager/card_log')}">优惠券日志</a></li>
+				</eq> -->
+			</ul>
+		</li>
+		</hd_arc> 
+
+
+	
+		<li>
+			<a href="{:U('Public/logout')}"><i class="icon icon-share-alt"></i> <span>退出系统</span></a>
+		</li>
+	</ul>
+</div>

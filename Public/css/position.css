@@ -1,0 +1,52 @@
+body {
+	font-family: "黑体";
+}
+
+a {
+	color: #979797;
+}
+
+
+/*查找位置*/
+
+.search-position {
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	font-size: .8em;
+}
+
+.search-position>input {
+	display: block;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	flex: 1;
+	border: 0;
+	padding-left: 10px;
+	margin: 10px 0;
+	outline: none;
+}
+
+.search-position>a:first-child {
+	margin: 8px 0;
+	padding: 0 10px;
+	border-right: 1px solid #CCCCCC;
+}
+
+#cancel-position {
+	color: #ff8903;
+	padding: 8px 10px;
+}
+
+
+/*位置*/
+
+.weui_cells {
+	margin: 0;
+}
+
+.little-font {
+	font-size: .5em;
+	color: #CCCCCC;
+}

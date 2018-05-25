@@ -1,0 +1,97 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title><?php echo (C("SYS_NAME")); ?></title>
+<meta name="keywords" content="<?php echo (C("SYS_NAME")); ?>" />
+<meta name="description" content="<?php echo (C("SYS_NAME")); ?>">
+<meta name="author" content="BBCMS Team">		
+<style>
+
+*{margin:0;padding:0;list-style:none;}
+body{
+	font-size: 14px;
+	line-height: 14px;
+	color: #333;
+	font-family: "Microsoft YaHei";
+	background-color: #70698b;
+	background-image: url(/goods/Public//Admin/img/bg.jpg);
+	background-repeat: repeat-x;
+	background-position: top;
+}	
+form, ul, ol, h1, h2, h3, h4, h5, h6, p, dl, dt, dd{list-style:none;}	
+input, textarea, select, button{font-size:12px;}
+.clear{clear:both;}
+
+.box{ width:410px; height:340px; margin:auto;border-radius:12px; margin-top:150px;}
+.box_top{ width:410px; height:50px; background:#FFF; border-radius:12px 12px 0px 0px;}
+.box_top p{ width:410px; height:50px; text-align:center; line-height:50px; font-size:20px; color:#333;}
+.box_foot{ width:410px; height:250px;background:#c7d4e8;border-radius:0px 0px 12px 12px;/*opacity:0.5;filter:alpha(opacity=50);*/}
+.box_footn{ width:330px; margin-left:40px; padding-top:15px;}
+.box_footn_01 input{ width:270px; height:40px; background:url(/goods/Public//Admin/img/yh_bg.gif) no-repeat;opacity:none; border:#CCC solid 1px;border-radius:6px; padding-left:56px;+padding-top:13px;+height:27px;padding-top:13px\9;height:27px\9;}
+.box_footn_02 input{ width:270px; height:40px; background:url(/goods/Public//Admin/img/mm_bg.gif) no-repeat;opacity:none; border:#CCC solid 1px;border-radius:6px; margin-top:10px; padding-left:56px;+padding-top:13px;+height:27px;padding-top:13px\9;height:27px\9;}
+.box_footn_03{ width:326px; height:25px; margin-top:20px; float:right;}
+.box_footn_03 span{ display:block; float:left; padding-top:2px;+padding-top:0px;}
+.box_footn_03 p{float:left; margin-left:5px;+padding-top:2px;}
+.box_footn_04{ width:326px; height:40px;}
+.box_footn_04 input{ width:326px;border-radius:6px; margin-top:25px; height:40px; border:none; background:#3f7bc0; font-size:15px; color:#FFF;font-family:"Microsoft YaHei";}
+.box_footn_05{ width:326px; height:40px;margin-top:20px;}
+.box_footn_05 input{ width:326px;border-radius:6px; margin-top:15px; height:40px; border:none; background:#3399ff; font-size:15px; color:#FFF;font-family:"Microsoft YaHei";}
+.tishi{background:#999; background:#c7d4e8; padding-bottom:10px;}
+.tishi p{ line-height:22px;}
+.hide{display:none;}
+</style>
+</head>
+
+<body>
+ <form method='post' id="act_form" action="<?php echo U('Public/checkLogin');?>"/>
+<div class="box">
+ <div class="box_top"><p><?php echo (C("SYS_NAME")); ?></p></div>
+ <div class="box_foot">
+  <div class="box_footn"> <div class="tishi" id="alert_info"><p>&nbsp;</p></div>
+
+   <div class="box_footn_01"><input type="text" name="username" id="username" placeholder="您的帐号" /></div>
+   <div class="box_footn_02"><input name="password" id="password" type="password" value="" placeholder="您的密码"/></div>
+   <div class="box_footn_04"><input type="button" id="btn_submit" value="登  陆" /></div>
+  </div>
+ </div>
+</div>
+
+ </form>
+
+        
+<script src="/goods/Public//Admin/js/jquery.min.js"></script>  
+<script src="/goods/Public//Admin/js/unicorn.login.js"></script> 
+<script src="/goods/Public//Admin/js/jquery.form.js"></script>	
+
+
+<script language="JavaScript">
+<!--
+
+
+$(document).ready(function(){
+	
+    $('#btn_submit').click(function(){
+			$('#alert_info').html('<p>&nbsp;</p>');
+            $('#act_form').ajaxSubmit(function(json){
+                if(json.status==1){
+					window.location.href="<?php echo U('Index/index');?>";
+					return;
+
+				}
+
+				$('#alert_info').show();
+				$('#alert_info').html('<p>' +  json.info + '</p>');
+            });
+            return false;
+    });
+});
+document.onkeydown=function(e){ 
+	var theEvent = window.event||e; 
+	var code=theEvent.keyCode||theEvent.which; 
+	if (code == 13)$("#btn_submit").click(); 
+} 
+//-->
+</script>
+</body>
+</html>

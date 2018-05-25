@@ -1,0 +1,112 @@
+/*
+debug.cn@gmail.com
+
+*/
+textarea {overflow:hidden;}
+.table-bordered-xhj td{border-left:0px solid #ddd;}
+.table-bordered-xhj table{margin-bottom:0px;}
+.table-bordered-xhj table{margin-bottom:0px;}
+a{color:#525252;}
+
+.center {text-align: center;}
+.left {text-align: left;}
+.right {text-align: right;}
+.ui-field-contain a{color: #9e9e9e;text-decoration:none;}
+.btn_addPic{
+    display: block;
+    position: relative;
+    width: 140px;
+	height: 39px;
+	overflow: hidden;
+	border: 1px solid #EBEBEB;
+	background: none repeat scroll 0 0 #F3F3F3;
+	color: #999999;
+    cursor: pointer;
+	text-align: center;
+}
+.btn_addPic span{display: block;line-height: 39px;}
+.btn_addPic em {
+	background:url(../img/file.png) 0 0;
+	display: inline-block;
+	width: 18px;
+	height: 18px;
+	overflow: hidden;
+	margin: 10px 5px 10px 0;
+	line-height: 20em;
+	vertical-align: middle;
+}
+.btn_addPic:hover em{background-position:-19px 0;}
+.filePrew {
+    display: block;
+	position: absolute;
+    top: 0;
+	left: 0;
+    width: 140px;
+	height: 39px;
+	font-size: 100px; /* 增大不同浏览器的可点击区域 */
+    opacity: 0; /* 实现的关键点 */
+	filter:alpha(opacity=0);/* 兼容IE */
+}
+
+
+.changeapp { 
+	margin:5px 10px 10px 10px;
+}
+
+.changeapp li{ 
+	background-color: #ffffff;
+    border: 1px solid #eeeeee;
+    display: block;
+    float: left;
+    margin: 0 5px 5px 0;
+    padding: 5px 10px;
+    width: 168px;
+	height: 20px;
+	position: relative;
+}
+.changeapp li label{ 
+	display: block;
+    cursor: pointer;
+}
+
+.file_c{
+        height:40px;
+        float:left
+        width: 20px;
+}
+.fileInputContainer{
+        height:40px;
+        background:url(../img/up.png);
+        position:relative;
+        width: 120px;
+    }
+    .fileInput{
+        height:40px;
+        overflow: hidden;
+        font-size: 300px;
+        position:absolute;
+        right:0;
+        top:0;
+        opacity: 0;
+        filter:alpha(opacity=0);
+        cursor:pointer;
+}
+
+
+	.picScroll-left{ width:450px;  overflow:hidden; position:relative;  border:1px solid #ccc;   }
+		.picScroll-left .hd{ overflow:hidden;  height:30px; background:#f4f4f4; padding:0 10px;  }
+		.picScroll-left .hd .prev,.picScroll-left .hd .next{ display:block;  width:5px; height:9px; float:right; margin-right:5px; margin-top:10px;  overflow:hidden;
+		cursor:pointer; background:url("../img/arrow.png") no-repeat;}
+		.picScroll-left .hd .next{ background-position:0 -50px;  }
+		.picScroll-left .hd .prevStop{ background-position:-60px 0; }
+		.picScroll-left .hd .nextStop{ background-position:-60px -50px; }
+		.picScroll-left .hd ul{ float:right; overflow:hidden; zoom:1; margin-top:10px; zoom:1; }
+		.picScroll-left .hd ul li{ float:left;  width:9px; height:9px; overflow:hidden; margin-right:5px; text-indent:-999px; cursor:pointer; background:url("../img/icoCircle.gif") 0 -9px no-repeat; }
+		.picScroll-left .hd ul li.on{ background-position:0 0; }
+		.picScroll-left .bd{ padding:10px;   }
+		.picScroll-left .bd ul{ overflow:hidden; zoom:1; }
+		.picScroll-left .bd ul li{ margin:0 8px; float:left; _display:inline; overflow:hidden; text-align:center;  }
+		.picScroll-left .bd ul li .pic{ text-align:center; }
+		.picScroll-left .bd ul li .pic img{ width:120px; height:90px; display:block;  padding:2px; border:1px solid #ccc; }
+		.picScroll-left .bd ul li .pic a:hover img{ border-color:#999;  }
+		.picScroll-left .bd ul li .title{ line-height:24px;   }
